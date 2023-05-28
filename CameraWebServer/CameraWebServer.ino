@@ -33,8 +33,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "Jennings Wifi";
-const char* password = "UnevenSea455";
+const char* ssid = "***";
+const char* password = "***";
 
 #define Unlock 21
 
