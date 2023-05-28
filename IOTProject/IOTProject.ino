@@ -8,8 +8,8 @@
 Servo myservo;
 LiquidCrystal_I2C lcd(0x27,16,2);
 
-const char* ssid = "Jennings Wifi";
-const char* password = "UnevenSea455";
+const char* ssid = "***";
+const char* password = "***";
 WebServer server(80);
 
 const int LED = 19; 
